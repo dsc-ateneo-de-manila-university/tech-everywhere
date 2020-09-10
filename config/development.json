@@ -1,0 +1,16 @@
+{
+  "basepath": "/",
+  "url": "https://tech-everywhere.web.app/",
+  "analytics": "UA-43643469-8",
+  "prefix": "/",
+  "firebase": {
+    "apiKey": "AIzaSyAfcL-2cDye7VlasKUG0kv0NuhckXiu6o0",
+    "appId": "1:423923238001:web:1804ec0cd94692a0d547d0",
+    "authDomain": "tech-everywhere.firebaseapp.com",
+    "databaseURL": "https://tech-everywhere.firebaseio.com",
+    "messagingSenderId": "423923238001",
+    "projectId": "tech-everywhere",
+    "storageBucket": "tech-everywhere.appspot.com"
+  },
+  "googleMapApiKey": "AIzaSyBu9LI-hY4NfUOPJJKuV3BfQm7edLr2-aE"
+}
